@@ -10,8 +10,8 @@
 #
 ###########################################################
 #
-aapbuildsurl=https://ariordan-redhat.github.io/aap-builds
-aapbuildspath=/Users/ariordan/repos/aap-builds
+aapbuildsurl=https://gmurray-redhat.github.io/aap-builds
+aapbuildspath=/gmurray/repos/aap-builds
 sourcebranch=$(git symbolic-ref --short HEAD)
 sourcepath=$(pwd)
 sourcedir=$(basename $sourcepath)
